@@ -190,7 +190,7 @@ html {
 
 #mySidenav a {
   position: fixed;
-  left: -150px; /* Position them outside of the screen */
+  left: -175px; /* Position them outside of the screen */
   transition: 0.3s; 
   padding: 15px; 
   width: 200px; /* Set a specific width */
